@@ -2,6 +2,7 @@
 //#include <Arduino.h>
 
 #include "esp_adc_cal.h"
+#include "esp_sleep.h"
 #include "esphome/components/display/display_buffer.h"
 #include "esphome/components/display/display_color_utils.h"
 #include "esphome/core/component.h"
